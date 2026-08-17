@@ -1,124 +1,85 @@
-# 👋 Olá, Rafael Mendes!
+# Rafael Mendes
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Especialista+em+Web;Construtor+de+Solu%C3%A7%C3%B5es+Escaláveis" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=00D9FF)](https://seuportfolio.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mendes-81813b348/)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaelMendes244)
-  [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@example.com)
-
-</div>
+Desenvolvedor Full Stack Python com foco em construir aplicações escaláveis e de alto desempenho. Especializado em desenvolvimento web, com sólido conhecimento em Python, JavaScript e tecnologias modernas.
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-Sou um **desenvolvedor full-stack apaixonado** com experiência em construir aplicações web escaláveis e performantes. Tenho forte domínio em desenvolvimento front-end e back-end, com foco em código limpo, arquitetura sólida e melhores práticas de desenvolvimento.
+Sou um desenvolvedor apaixonado por tecnologia com experiência prática em desenvolvimento full-stack. Atualmente conclusão do curso de **Desenvolvedor Full Stack Python pela EBAC**, complementando minha formação com projetos reais e boas práticas de desenvolvimento.
 
-**Meus valores profissionais:**
-- ✅ Comprometido com a **qualidade do código** e **boas práticas**
-- ✅ Mentalidade **orientada ao aprendizado contínuo**
-- ✅ Capacidade de **trabalhar em equipa** de forma colaborativa
-- ✅ Foco em **soluções escaláveis e performantes**
-- ✅ Proativo na **resolução de problemas**
+Tenho forte comprometimento com qualidade de código, arquitetura escalável e metodologias ágeis. Busco constantemente evoluir tecnicamente e contribuir para projetos que gerem impacto real.
 
----
-
-## 💻 Stack Técnico
-
-### 🔥 Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### ⚙️ Ferramentas & Desenvolvimento
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+**Valores Profissionais:**
+- Qualidade e excelência no desenvolvimento
+- Código limpo e bem documentado
+- Aprendizado contínuo e adaptação
+- Trabalho colaborativo e proativo
+- Foco em soluções eficientes
 
 ---
 
-## 📈 Estatísticas & Desempenho
+## Stack Técnico
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=RafaelMendes244&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9cacc&count_private=true" alt="Estatísticas GitHub" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMendes244&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9cacc" alt="Linguagens Principais" />
-    </td>
-  </tr>
-</table>
+**Linguagens:** Python • JavaScript • HTML5 • CSS3
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RafaelMendes244&theme=dark&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=c9cacc&sideNums=c9cacc&currStreakLabel=c9cacc&dates=c9cacc&excludeDaysLabel=c9cacc" alt="GitHub Streak" />
-</div>
+**Frontend:** React • CSS • DOM • Responsivo
+
+**Backend:** Python • APIs REST • Arquitetura MVC
+
+**Ferramentas:** Git • GitHub • VS Code • Figma
+
+**Metodologias:** Scrum • Clean Code • SOLID
 
 ---
 
-## 🎯 Projetos em Destaque
+## Formação Acadêmica
 
-| Projeto | Descrição | Tecnologias |
+**Desenvolvedor Full Stack Python** | EBAC (Em conclusão)
+- Especialização em desenvolvimento web com Python
+- Projetos práticos com tecnologias modernas
+- Fundamentos de arquitetura e design de software
+
+**Cursos Complementares**
+- Desenvolvimento Frontend - DIO
+- Contribuição em Open Source - DIO
+- Práticas de Git e GitHub
+
+---
+
+## Projetos em Destaque
+
+| Projeto | Descrição | Repositório |
 |---------|-----------|-------------|
-| 🔗 [Projeto 1](#) | Descrição breve do projeto | Python, Web |
-| 🔗 [Projeto 2](#) | Descrição breve do projeto | JavaScript, React |
-| 🔗 [Projeto 3](#) | Descrição breve do projeto | Full-Stack |
-
-*Clica nos links para ver mais detalhes e código-fonte*
+| **Sabores do Lar** | E-commerce de alimentos com interface responsiva | [Visualizar](https://github.com/RafaelMendes244/saboresdolar) |
+| **RM Sites** | Portfólio web profissional com design moderno | [Visualizar](https://github.com/RafaelMendes244/RMSites) |
+| **Meu Portfólio** | Vitrine digital de projetos e experiência profissional | [Visualizar](https://github.com/RafaelMendes244/MeuPortfolio) |
 
 ---
 
-## 🎓 Educação & Certificações
+## Estatísticas e Desempenho
 
-- 📚 **Desenvolvimento Full-Stack** – DIO.me
-- 🏆 **Certificação em Desenvolvimento Web** – Em progresso
-- 📖 **Aprendizado contínuo** em arquitetura de software e DevOps
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelMendes244&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMendes244&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-## 📊 Estatísticas Adicionais
-
-<div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=RafaelMendes244&color=00D9FF&style=flat-square)
-  
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelMendes244&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&dates=c9d1d9)
 
 ---
 
-## 💼 O Que Procuro
+## Conectar
 
-🔍 Oportunidades que me permitam:
-- Trabalhar com **tecnologias modernas** e desafiadoras
-- Contribuir para **produtos que impactam** a vida das pessoas
-- Crescer profissionalmente em **ambientes colaborativos**
-- Desenvolver **soluções escaláveis** e bem arquitetadas
+Tenho interesse em oportunidades colaborativas, projetos desafiadores e contribuições open source.
 
----
-
-## 📬 Vamos Conectar!
-
-<div align="center">
-
-**Tenho interesse em colaborações, projetos freelance ou oportunidades de emprego!**
-
-[![LinkedIn](https://img.shields.io/badge/Conecta%20Comigo%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mendes-81813b348/)
-[![Email](https://img.shields.io/badge/Envia%20um%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@example.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mendes-81813b348/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RafaelMendes244)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabriel.mito07@gmail.com)
 
 ---
 
 <div align="center">
-
-### 💡 *"A programação é 80% pensamento e 20% digitação. Pensa bem!"*
-
-**Obrigado por visitares o meu perfil! Deixa uma ⭐ se achaste útil!**
-
+  <p>
+    <em>Código limpo é código que funciona bem e é fácil de manter.</em>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=RafaelMendes244&color=58a6ff&style=flat" alt="Profile Views" />
 </div>
