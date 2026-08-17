@@ -1,7 +1,5 @@
 # Rafael Mendes
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+Python;Web+Designer;Especialista+em+Solu%C3%A7%C3%B5es+Escaláveis" alt="Typing SVG" />
-
 Desenvolvedor Full Stack Python com foco em construir aplicações escaláveis e de alto desempenho. Especializado em desenvolvimento web, com sólido conhecimento em Python, JavaScript e tecnologias modernas.
 
 ---
@@ -61,17 +59,18 @@ Tenho forte comprometimento com qualidade de código, arquitetura escalável e m
 
 ## Estatísticas e Desempenho
 
-### GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelMendes244&show_icons=true&count_private=true&hide=prs&theme=dark&bg_color=1a1b27&text_color=e6edf3&border_color=30363d)
+**Atividade no GitHub**
 
-### Top Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMendes244&layout=compact&theme=dark&bg_color=1a1b27&text_color=e6edf3&border_color=30363d)
+**Repositórios Públicos:** 13+ | **Contribuições:** Ativas | **Certificações:** EBAC
 
-### GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelMendes244&stroke=58a6ff&background=1a1b27&ring=58a6ff&fire=58a6ff&currStreakNum=e6edf3&currStreakLabel=79c0ff&dates=7d8590&hide_border=true)
+</div>
 
 ---
 
@@ -93,5 +92,6 @@ Tenho interesse em oportunidades colaborativas, projetos desafiadores e contribu
   <p>
     <em>Código limpo é código que funciona bem e é fácil de manter.</em>
   </p>
-  <img src="https://komarev.com/ghpvc/?username=RafaelMendes244&color=58a6ff&style=flat" alt="Profile Views" />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=RafaelMendes244&color=58a6ff&style=flat)
 </div>
