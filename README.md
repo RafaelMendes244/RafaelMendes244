@@ -1,5 +1,7 @@
 # Rafael Mendes
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+Python;Web+Designer;Especialista+em+Solu%C3%A7%C3%B5es+Escaláveis" alt="Typing SVG" />
+
 Desenvolvedor Full Stack Python com foco em construir aplicações escaláveis e de alto desempenho. Especializado em desenvolvimento web, com sólido conhecimento em Python, JavaScript e tecnologias modernas.
 
 ---
@@ -59,11 +61,17 @@ Tenho forte comprometimento com qualidade de código, arquitetura escalável e m
 
 ## Estatísticas e Desempenho
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelMendes244&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-master-anurag90s-projects.vercel.app/api?username=RafaelMendes244&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMendes244&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-master-anurag90s-projects.vercel.app/api/top-langs/?username=RafaelMendes244&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelMendes244&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&dates=c9d1d9)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RafaelMendes244&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -71,9 +79,13 @@ Tenho forte comprometimento com qualidade de código, arquitetura escalável e m
 
 Tenho interesse em oportunidades colaborativas, projetos desafiadores e contribuições open source.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mendes-81813b348/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RafaelMendes244)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabriel.mito07@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mendes-81813b348/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaelMendes244)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.mito07@gmail.com)
+
+</div>
 
 ---
 
