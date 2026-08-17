@@ -61,17 +61,17 @@ Tenho forte comprometimento com qualidade de código, arquitetura escalável e m
 
 ## Estatísticas e Desempenho
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-anurag90s-projects.vercel.app/api?username=RafaelMendes244&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
+### GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-anurag90s-projects.vercel.app/api/top-langs/?username=RafaelMendes244&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelMendes244&show_icons=true&count_private=true&hide=prs&theme=dark&bg_color=1a1b27&text_color=e6edf3&border_color=30363d)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RafaelMendes244&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMendes244&layout=compact&theme=dark&bg_color=1a1b27&text_color=e6edf3&border_color=30363d)
+
+### GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelMendes244&stroke=58a6ff&background=1a1b27&ring=58a6ff&fire=58a6ff&currStreakNum=e6edf3&currStreakLabel=79c0ff&dates=7d8590&hide_border=true)
 
 ---
 
